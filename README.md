@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anna !!
 
 - 🔭 I’m currently working on reaching new challenges.
-- 🌱 I’m currently learning more about JavaScript, React, Express, NodeJs.
+- 🌱 I’m currently learning Java, SQL and microservices in a 9 weeks Bootcamp from Accenture Scholarship powered by Ironhack.
 - 📫 How to reach me: 
     [Linkedin](linkedin.com/in/anna-ma-porras-marcual)   | :e-mail: amporras85@gmail.com  |  	:phone: (+34)662112500    
 <!--
